@@ -1,0 +1,5 @@
+testredis-cache.redis.cache.windows.net:6380,password=8QmFEGp2KHnJYZi3fpAiv55hO4Yd5LiumftmKMB6yqc=,ssl=True,abortConnect=False
+testredis-cache.redis.cache.windows.net:6380,password=8QmFEGp2KHnJYZi3fpAiv55hO4Yd5LiumftmKMB6yqc=,ssl=True,abortConnect=False
+
+
+firefly-dev.redis.cache.windows.net:6380,password=UqXqjeGY598KansBeNDw8JEfhFvwMJolV9g9j7pc78U=,ssl=True,abortConnect=False
