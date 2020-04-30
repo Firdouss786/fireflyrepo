@@ -1,0 +1,3 @@
+mysql --host ife-pdg-dev-uset2-ifh-001-servo-2-mysqlserver.mysql.database.azure.com --user mysql-ifh-admin@ife-pdg-dev-uset2-ifh-001-servo-2-mysqlserver -p firefly_development < firefly_development.sql
+
+F%5mYPWxbqF!bN7Q
